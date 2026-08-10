@@ -25,7 +25,7 @@ Apify MCP server*.
 ## Interactive setup (Claude Code)
 
 ```bash
-claude mcp add --transport http apify "https://mcp.apify.com?tools=get-actor-output,musicae/dj-track-audio-analyzer" --header "Authorization: Bearer YOUR_APIFY_TOKEN"
+claude mcp add --transport http apify "https://mcp.apify.com/?tools=get-actor-output,musicae/dj-track-audio-analyzer" --header "Authorization: Bearer YOUR_APIFY_TOKEN"
 ```
 
 ## Headless script

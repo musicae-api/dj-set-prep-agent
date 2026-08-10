@@ -23,7 +23,7 @@ if hasattr(sys.stdout, "reconfigure"):
 console = rich.console.Console()
 
 MODEL = "claude-sonnet-5"
-MCP_URL = "https://mcp.apify.com?tools=get-actor-output,musicae/dj-track-audio-analyzer"
+MCP_URL = "https://mcp.apify.com/?tools=get-actor-output,musicae/dj-track-audio-analyzer"
 
 # Your crate. Entries can be track URLs, track IDs, ISRCs, or search strings.
 TRACKS = [
