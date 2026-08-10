@@ -1,0 +1,31 @@
+{
+  "_comment": "Real (trimmed) output of musicae/dj-track-audio-analyzer for one track. Full items also include track metadata, artist profiles, phrase durations, and a 5-axis mood vector.",
+  "track": {
+    "track_name": "Muyè",
+    "track_url": "https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c",
+    "track_duration": "07:49",
+    "track_loudness_db": -15.341,
+    "track_is_vocal_heavy": false
+  },
+  "rhythm": {
+    "bpm": 120.01,
+    "time_signature": "4/4",
+    "phrases_count": { "bar_32": 7 }
+  },
+  "harmony": {
+    "camelot": "9B",
+    "note": "G",
+    "mode": "major"
+  },
+  "score": {
+    "energy": 0.474,
+    "danceability": 0.775,
+    "warmup": 0.389,
+    "peak_time": 0.564,
+    "hype": 0.541,
+    "groove": 0.823,
+    "blendability": 0.907,
+    "vocal_risk": 0.061
+  },
+  "mood": { "label": "sad" }
+}
